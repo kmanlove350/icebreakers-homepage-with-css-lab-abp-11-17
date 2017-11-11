@@ -18,5 +18,5 @@ header nav{
 }
 
 nav ul li {
-  
+  display: inline;
 }
