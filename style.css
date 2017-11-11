@@ -44,5 +44,5 @@ h3#header {
 }
 
 #header a:hover {
-  text-decoration: 
+  text-decoration: underline;
 }
